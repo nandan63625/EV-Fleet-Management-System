@@ -1,5 +1,3 @@
-# EV-Fleet-Management-System
-# EV Fleet Guardian
 
 ## Overview
 
